@@ -1,4 +1,4 @@
-module github.com/google/or-tools
+module github.com/rchilaka-netapp/or-tools
 
 go 1.22.2
 
